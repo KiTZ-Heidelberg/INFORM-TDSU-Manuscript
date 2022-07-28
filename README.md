@@ -1,4 +1,4 @@
-# INFORM_TDSU
+## INFORM TDSU Manuscript Analysis
 
 Quality control classification of the INFORM functional patient-derived 3D platform, 2022.
 
